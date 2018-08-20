@@ -1,0 +1,16 @@
+{
+    "checkout_page": {
+        "billing_address": {
+            "billing_address": {
+                "firstname": "hello",
+                "company": "velocity"
+            },
+            "firstname": "hello",
+            "company": "velocity"
+        },
+        "shipping_address": {
+            "firstname": "hello",
+            "company": "velocity"
+        }
+    }
+}

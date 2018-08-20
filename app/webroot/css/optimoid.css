@@ -1,0 +1,298 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Feb, 2015, 6:39:22 PM
+    Author     : velocity-pc-1618
+*/
+
+.error-message, .client-error-message {
+    color:red;
+    font-size: 13px;
+}
+#CommonProjectAddProjectForm p{
+    margin:0px;
+}
+.button-box{
+    margin-top:10px;
+}
+.experiment-heading-text{
+    display: none;
+}
+#experiment-settings, #experiment-advance-settings, #experiment-advance-settings-Wildcard, #experiment-advance-settings-Regex, #experiment-advance-settings-Customize{
+    display:none;
+}
+.opt-m0{
+    margin:0px;
+}
+.m-t10{
+    margin-top:10px;
+}
+.m-t8{
+    margin-top:8px;
+}
+.t-d-u{
+    text-decoration: underline;
+}
+#dLabel{
+    width:300px; height:40px;background-color:#fbfbfb;padding:8px; border:1px solid #c5c5c5;
+}
+#dLabel .caret{
+    margin-right: 0px;margin-top:10px
+}
+#tracking_dropdown_menu{
+    padding:15px; padding-bottom: 5px;background-color:#fbfbfb;
+    box-shadow: 0 2px 6px 6px rgba(0, 0, 0, 0.1);
+}
+.btn{
+    line-height: 1.3; 
+}
+
+#change_plan .panel-body h4 {
+        padding: 8px 15px;
+        border-top: 1px solid #eeeff1;
+        font-size: 14px;
+        margin: 0;
+        line-height: 1.42857143;
+}
+#overlay-div {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background-color: rgba(255,255,255,0.6);/*#fbfbfb*/;
+  text-align: center;
+  z-index: 999999;
+  display: none;
+}
+#overlay-div span{
+    position: fixed;
+    top: 309px;
+    opacity: 1;
+    font-size: 16px;
+    font-weight: bold;
+}
+.loading_spinner, .script_loading_spinner{
+    display:none;
+}
+
+#reporting_list_anchor .loading_spinner{
+    display:none;
+}
+
+#switchTooltip.fa{
+    line-height: 20.8px;
+}
+.text_disabled {
+    color:#D9D9D9;
+}
+
+
+/*Overlay css*/
+.overlay_pointer {
+        background-repeat: no-repeat;
+        cursor: pointer;
+        overflow: hidden;
+        position: absolute;
+}
+
+.overlay_selector {
+        display: block;
+        position: absolute;
+        cursor: pointer;
+}
+
+.overlay_panel {
+        background-position: -440px bottom;
+        background-repeat: no-repeat;
+        font-size: 12px;
+        padding-bottom: 15px;
+        position: absolute;
+        width: 220px;
+        box-shadow: 0px 5px 15px 0px #CCC;
+        -webkit-box-shadow: 0px 5px 15px 0px #CCC;
+        -moz-box-shadow: 0px 5px 15px 0px #CCC;
+        z-index: 20;
+}
+.optimoid-progress {
+	background-color: #CDCDCD;
+}
+
+.optimoid-progress-sm{
+	height: 17px;
+}
+.optimoid-progress-bar-text{
+	font-size: 12px;
+	padding-top: 3px;
+	padding-left: 10px;
+}
+/*Overlay css*/
+
+#experiment_url{
+    font-size: 17px;
+    color: rgb(86, 86, 86);
+}
+#control-pane {
+  top: 300px;
+  /*bottom: 10px;*/
+  right: 10px;
+  position: absolute;
+  width: 230px;
+  background-color: rgb(249, 247, 237);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+#control-pane > div {
+  margin: 10px;
+  overflow-x: auto;
+}
+
+.package-alert {
+        top: 76px;
+        right: 0px;
+        z-index: 100;
+}
+
+.package-alert a {
+        color: #2c75ee !important;
+        text-decoration: underline;
+}
+.preveiw_disc {
+      border-radius:99px;
+     -moz-border-radius:99px;
+     -webkit-border-radius:99px;      
+      color:#fff;
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#e7676d', EndColorStr='#b7070a'); 
+      display:inline-block;
+      padding:5px;
+      margin:3px;
+      font-family:arial;
+      font-weight:bold;
+}
+
+
+#confetti .desktop_screen .panel-body{
+    overflow-y:scroll;
+    max-height:300px;
+}
+#projectList i {
+    font-size: 24px;
+}
+#HeatmapExperimentHmexStartTracking{
+    cursor: pointer;
+}
+#HeatmapExperimentHmexEndTracking{
+    cursor: pointer;
+}
+.minimized_button{
+    font-size: 9px;
+    margin-right: 3px;
+    margin-top: 3px;
+    color:#000;
+    cursor: pointer;
+}
+.minimized_button i {
+    font-size: 8px;
+    color:#000;
+}
+
+li.bg-primary a {
+        color: #FFFFFF !important;
+}
+li.bg-primary a {
+        color: #FFFFFF !important;
+}
+li.bg-primary a:hover {
+        color: #FFFFFF !important;
+        background-color: #155abb !important;
+}
+li.bg-success a:hover {
+        color: #FFFFFF !important;
+        background-color: #4bb622 !important;
+}
+.ab-coming-soon {
+        height: 435px; 
+        padding-top: 165px;
+}
+
+.envelope-filter-text {
+        left: 5px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        width: 140px;
+}
+
+/*Account - Billing Summary CSS*/
+#billing_summary .table-responsive {
+	max-height: 400px;
+	overflow-y: auto !important;
+}
+
+.text-dark-highlight {
+	color: #000000 !important
+}
+
+/*AB Testing CSS*/
+.scroller {
+        text-align:center;
+        cursor:pointer;
+        display:none;
+        padding:7px;
+        padding-top:11px;
+        white-space:no-wrap;
+        vertical-align:middle;
+}
+
+.tabs-wrapper {
+        position: relative;
+        height: 42px;
+        width: 780px;
+        overflow: hidden;
+}
+.tabs-wrapper #tabs {
+        left: 40px;
+        top: 0;
+        position: absolute;
+        min-width: 780px;
+}
+
+.tabs-wrapper #tabs li {
+        margin-bottom: 0px !important;
+}
+
+.tabs-wrapper-content {
+        margin-top: -1px !important;
+        border-top-width: 1px !important;
+}
+
+.tab-option-icon {
+        position: absolute;
+        top: 10px;
+        right: 12px;
+}
+
+.tabs-wrapper #tabs li.active a {
+        padding-right: 25px;
+}
+
+.tabs-wrapper #tabs li i {
+        display: none;
+}
+
+.tabs-wrapper #tabs li.active i {
+        display: block;
+}
+
+.text-paused {
+        color: #f88311 !important;
+}
+
+.loading_spinner_insight, .loading_spinner_overlay{
+	position: relative;
+    margin-top: 11%;
+    text-align: center;
+    font-size: 42px;
+}

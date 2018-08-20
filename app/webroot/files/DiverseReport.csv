@@ -1,0 +1,68 @@
+"MISSING ELEMENTS IN RIGHT SIDE",Value
+,
+data/namex,"Sprite Yoga Companion Kit"
+,
+,
+,
+"NEW ELEMENTS IN RIGHT SIDE",Value
+,
+data/skux,MH09
+data/name,"Abominable Hoodie"
+data/options/0/product_option_value/8/product_option_value_id,188
+data/options/0/product_option_value/8/quantity,100.0000
+data/options/0/product_option_value/8/option_value_name,"Red - M"
+data/options/0/product_option_value/8/variation_sku,MH09-M-Red
+data/options/0/product_option_value/9/product_option_value_id,189
+data/options/0/product_option_value/9/quantity,100.0000
+data/options/0/product_option_value/9/option_value_name,"Blue - L"
+data/options/0/product_option_value/9/variation_sku,MH09-L-Blue
+data/options/0/product_option_value/10/product_option_value_id,190
+data/options/0/product_option_value/10/quantity,100.0000
+data/options/0/product_option_value/10/option_value_name,"Green - L"
+data/options/0/product_option_value/10/variation_sku,MH09-L-Green
+data/options/0/product_option_value/11/product_option_value_id,191
+data/options/0/product_option_value/11/quantity,100.0000
+data/options/0/product_option_value/11/option_value_name,"Red - L"
+data/options/0/product_option_value/11/variation_sku,MH09-L-Red
+data/options/0/product_option_value/12/product_option_value_id,192
+data/options/0/product_option_value/12/quantity,100.0000
+data/options/0/product_option_value/12/option_value_name,"Blue - XL"
+data/options/0/product_option_value/12/variation_sku,MH09-XL-Blue
+data/options/0/product_option_value/13/product_option_value_id,193
+data/options/0/product_option_value/13/quantity,100.0000
+data/options/0/product_option_value/13/option_value_name,"Green - XL"
+data/options/0/product_option_value/13/variation_sku,MH09-XL-Green
+data/options/0/product_option_value/14/product_option_value_id,194
+data/options/0/product_option_value/14/quantity,100.0000
+data/options/0/product_option_value/14/option_value_name,"Red - XL"
+data/options/0/product_option_value/14/variation_sku,MH09-XL-Red
+,
+,
+,
+"MISMATCHED VALUES","Old Value","New Value"
+,
+data/image,http://www.magentotwo.com//EIM_API/cache//m/h/mh09-blue_alt1-250x250.jpg,http://www.magentotwo.com//EIM_API/cache//l/u/luma-yoga-kit-2-250x250.jpg
+data/options/0/product_option_value/0/product_option_value_id,180,26
+data/options/0/product_option_value/0/option_value_name,"Blue - XS","Yoga - Plastic - Blue - Men - Exercise - 55 cm"
+data/options/0/product_option_value/0/variation_sku,MH09-XS-Blue,24-WG081-blue
+data/options/0/product_option_value/1/product_option_value_id,181,29
+data/options/0/product_option_value/1/option_value_name,"Green - XS","Yoga - Plastic - Blue - Men - Exercise - 65 cm"
+data/options/0/product_option_value/1/variation_sku,MH09-XS-Green,24-WG082-blue
+data/options/0/product_option_value/2/product_option_value_id,182,32
+data/options/0/product_option_value/2/option_value_name,"Red - XS","Yoga - Plastic - Blue - Men - Exercise - 75 cm"
+data/options/0/product_option_value/2/variation_sku,MH09-XS-Red,24-WG083-blue
+data/options/0/product_option_value/3/product_option_value_id,183,21
+data/options/0/product_option_value/3/option_value_name,"Blue - S","Yoga - Foam - Men - Exercise"
+data/options/0/product_option_value/3/variation_sku,MH09-S-Blue,24-WG084
+data/options/0/product_option_value/4/product_option_value_id,184,33
+data/options/0/product_option_value/4/option_value_name,"Green - S","Yoga - Canvas - Men - Exercise - 6 foot"
+data/options/0/product_option_value/4/variation_sku,MH09-S-Green,24-WG085
+data/options/0/product_option_value/5/product_option_value_id,185,34
+data/options/0/product_option_value/5/option_value_name,"Red - S","Yoga - Canvas - Men - Exercise - 8 foot"
+data/options/0/product_option_value/5/variation_sku,MH09-S-Red,24-WG086
+data/options/0/product_option_value/6/product_option_value_id,186,35
+data/options/0/product_option_value/6/option_value_name,"Blue - M","Yoga - Canvas - Men - Exercise - 10 foot"
+data/options/0/product_option_value/6/variation_sku,MH09-M-Blue,24-WG087
+data/options/0/product_option_value/7/product_option_value_id,187,22
+data/options/0/product_option_value/7/option_value_name,"Green - M","Yoga - Foam - Men - Exercise"
+data/options/0/product_option_value/7/variation_sku,MH09-M-Green,24-WG088

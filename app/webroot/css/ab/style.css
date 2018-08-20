@@ -1,0 +1,50 @@
+body {
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	
+}
+.optimoid_unselectable {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+
+div[class*="optimoid_border"] {
+	background: none repeat scroll 0 0 #00af33;
+	display: none;
+	height: 2px;
+	min-height: 0 !important;
+	min-width: 0 !important;
+	padding: 0 !important;
+	position: absolute;
+	width: 2px;
+	z-index: 1000000;
+}
+div[class*="optimoid_shadow"] {
+	background: none repeat scroll 0 0 #ff0000;
+	/*display: none;*/
+	height: 1px;
+	min-height: 0 !important;
+	min-width: 0 !important;
+	padding: 0 !important;
+	position: absolute;
+	width: 1px;
+        box-shadow: 0 -2px 6px #ff0000;
+	z-index: 1000000;
+}
+#changer-container {
+    cursor: default;
+    position: fixed;
+    z-index: 5;
+}
+
+.outlineclass {
+	outline: 2px solid #3875D7 !important;
+	box-shadow: 3px 3px 4px #999;
+	-webkit-box-shadow: 3px 3px 4px #999;
+	z-index: 2147483646 !important;
+}
